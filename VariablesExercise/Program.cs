@@ -13,7 +13,7 @@ namespace VariablesExercise
             bool iHaveToured = false;
             double myHeight = 71;
             double myWeight = 160;
-            decimal myNetIncome = 41600;
+            decimal myNetIncome = 41600m;
 
             Console.WriteLine($"Hello there! My name is {myName} and I'm {myAge} years old. My middle initial is {myMiddleInitial}.");
             Console.WriteLine($"I'm {myHeight} inches tall and I weigh {myWeight} pounds.");
